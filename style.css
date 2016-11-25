@@ -1,0 +1,27 @@
+body {
+	background-color: #e7e7e7;
+}
+header {
+	font-color: #000000;
+	font-size: 40px;
+	background-color: blue;
+	font-style: italic;
+	text-align: center;
+}
+h1 {
+	color: #9c1111;
+	text-decoration: underline;
+	text-align: center;
+}
+img {
+	width: 20%;
+	height: 10%;
+
+}
+footer{
+	background-color: blue;
+	font-color: #000000;
+	font-size: 40px;
+	text-align: center;
+}
+
