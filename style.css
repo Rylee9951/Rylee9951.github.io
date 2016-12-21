@@ -36,3 +36,15 @@ h1{
     margin-right: 40px;
     
 }
+a{
+	outline: none;
+}
+
+i{
+	color: white;
+	
+}
+
+.github{
+	font-size: 60px;
+}
